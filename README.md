@@ -1,6 +1,6 @@
 # shared-config2
  
-├── configuration<br />
+└── configuration<br />
 &nbsp;&emsp;&emsp;└─ application.yml<br />
 &nbsp;&emsp;&emsp;└─ app1.yml<br />
 &nbsp;&emsp;&emsp;└─ app1-dev.yml<br />
